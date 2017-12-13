@@ -1,0 +1,7 @@
+group/smiling/00002.tga
+group/smiling/00008.tga
+group/smiling/00010.tga
+group/smiling/00012.tga
+group/smiling/00014.tga
+group/smiling/00016.tga
+group/smiling/00018.tga

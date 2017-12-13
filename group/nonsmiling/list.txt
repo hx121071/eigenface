@@ -1,0 +1,7 @@
+group/nonsmiling/00005.tga
+group/nonsmiling/00007.tga
+group/nonsmiling/00009.tga
+group/nonsmiling/00011.tga
+group/nonsmiling/00013.tga
+group/nonsmiling/00015.tga
+group/nonsmiling/00017.tga
